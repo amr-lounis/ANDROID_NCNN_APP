@@ -31,3 +31,20 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+*.mp4
+*.jpg
+*.avi
+
+*.pt
+*.onnx
+*.tflite
+*.bin
+*.param
+*.pth
+
+*.zip
+*.exe
+
+app/src/main/cpp/ncnn*
+app/src/main/cpp/opencv-mobile*
