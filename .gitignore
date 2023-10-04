@@ -46,5 +46,5 @@ google-services.json
 *.zip
 *.exe
 
-app/src/main/cpp/ncnn*
-app/src/main/cpp/opencv-mobile*
+app/src/main/cpp/ncnn-*-android-vulkan
+app/src/main/cpp/opencv-mobile-*-android
